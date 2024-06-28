@@ -14,6 +14,9 @@
 <img src="static/xhs/下载xhs.png" alt="">
 <img src="static/xhs/搜索页xhs.png" alt="">
 <hr>
+<img src="static/map/amap_map.png" alt="高德地图">
+<img src="static/map/baidu_map.png" alt="百度地图">
+<hr>
 <img src="static/dy/推荐页.png" alt="">
 <img src="static/dy/搜索页.png" alt="">
 <h1>🗳 安装说明</h1>
