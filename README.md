@@ -21,10 +21,6 @@
 <img src="static/dy/搜索页.png" alt="">
 <h1>🗳 安装说明</h1>
 <a href="https://glbjknw7a4.feishu.cn/docx/CeMZdqITQo5cuSxG9RocpQ4Wn9e" target="_blank">点击链接前往飞书说明文档</a>
-<h1>✉️ 联系作者</h1>
-<ul>
-<li>WX 群聊: <img src="static/wx群二维码.png" alt=""></li>
-</ul>
 <h1>⚠️ 免责声明</h1>
 <ul>
 <li>使用者对本项目的使用由使用者自行决定，并自行承担风险。作者对使用者使用本项目所产生的任何损失、责任、或风险概不负责。</li>
