@@ -1,6 +1,8 @@
 <h1>XHS-DY-Tools</h1>
 <p>🔥 <b>小红书/抖音作品无水印采集工具、地图商家下载工具</b>：小红书搜索结果批量下载：批量下载小红书博主的所有笔记；支持笔记评论(包括子评论)下载；下载小红书无水印作品文件；下载抖音无水印视频文件；批量下载地图商家信息！</p>
 <p>本程序是浏览器插件，支持Chrome、Edge浏览器安装</P>
+<h1>🗳 安装说明</h1>
+<a href="https://glbjknw7a4.feishu.cn/docx/CeMZdqITQo5cuSxG9RocpQ4Wn9e" target="_blank">点击链接前往飞书说明文档</a>
 <h1>📑 项目功能</h1>
 <ul><b>程序功能</b>
 <li>✅ 采集下载小红书作品信息</li>
@@ -19,8 +21,6 @@
 <hr>
 <img src="static/dy/推荐页.png" alt="">
 <img src="static/dy/搜索页.png" alt="">
-<h1>🗳 安装说明</h1>
-<a href="https://glbjknw7a4.feishu.cn/docx/CeMZdqITQo5cuSxG9RocpQ4Wn9e" target="_blank">点击链接前往飞书说明文档</a>
 <h1>⚠️ 免责声明</h1>
 <ul>
 <li>使用者对本项目的使用由使用者自行决定，并自行承担风险。作者对使用者使用本项目所产生的任何损失、责任、或风险概不负责。</li>
