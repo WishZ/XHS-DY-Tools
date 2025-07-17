@@ -3,6 +3,7 @@
 <p>本程序是浏览器插件，支持Chrome、Edge浏览器安装</P>
 <h1>🗳 安装说明</h1>
 <a href="https://glbjknw7a4.feishu.cn/docx/CeMZdqITQo5cuSxG9RocpQ4Wn9e" target="_blank">点击链接前往飞书说明文档</a>
+<a href="https://data.snappdown.com/" target="_blank">点击链接前往在线提取网站</a>
 <h1>📑 项目功能</h1>
 <ul><b>程序功能</b>
 <li>✅ 采集下载小红书作品信息</li>
